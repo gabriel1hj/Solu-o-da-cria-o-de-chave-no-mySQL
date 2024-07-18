@@ -1,5 +1,6 @@
-Bem ensinarei como cria um chave estrageiro de forma simples no mysql
-Primeiro crie um tabela e crie outra tabela ai
+Bem ensinarei como cria um chave estrageiro de forma simples no mysql.
+Primeiro vai no icone de tabelas tem e so achar,
+segundo crie um tabela e crie outra tabela, ai
 vai foreign keys e na configuração da tabela que voce a chave estrangeira
 em references coloque a outra tabela
 depois va no campo clique que que fazer estrageira
